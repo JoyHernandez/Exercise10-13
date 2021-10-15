@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,100&family=Roboto&family=Sniglet:wght@400;800&display=swap');
+img{
+	margin-left: 450px;
+	margin-top: 30px;
+	border-style: double;
+	border-color: hotpink;
+}
+
+h1{
+	text-align: center;
+	font-family: sniglet;
+
+
+}
+
+p{
+	border-style: solid;
+	border-color: orange;
+	padding: 20px;
+	position: absolute;
+	left: 300px;
+	right: 300px;
+	font-family: roboto;
+}
+
+body{
+	background-color: lightcyan;
+}
+
+.olympics{
+	position: relative;
+	top: 200px;
+	right: 400px;
+}
+
+.casino{
+	position: relative;
+	left: 300px;
+	top: -200px;
+}
+
+h3{
+	position: absolute;
+	font-family: sniglet;
+	top: 615px;
+	left: 200px;
+}
+
+.palms{
+	position: absolute;
+	font-family: sniglet;
+	top: 615px;
+	left: 950px;
+}
+
+
+
